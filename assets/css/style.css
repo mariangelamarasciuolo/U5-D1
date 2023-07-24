@@ -226,7 +226,9 @@ footer a {
     body {
         padding: 1vh 6vW;
     }
-
+    main {
+        padding: 2em;
+    }
     header {
         text-align: left;
         padding: 0;
@@ -282,6 +284,7 @@ footer a {
 
     aside div {
         display: inline-block;
-        width: 33%;
+        width: 33.33%;
+        margin-right: -4px;
     }
 }
